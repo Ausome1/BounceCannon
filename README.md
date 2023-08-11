@@ -1,5 +1,5 @@
 # BounceCannon
-A tool to remotely control a relay to hide where downloads are coming from.
+A tool to remotely control a relay to obfuscate where downloads are coming from.
 
 # Requirements:
 1. PHP
